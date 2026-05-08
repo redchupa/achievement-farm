@@ -12,3 +12,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Watch a file for changes](./watch-file.md)
 - [Zip a folder without 7-Zip](./zip-folder.md)
 - [Time a command execution](./measure-command.md)
+- [Find text across files recursively](./find-text-in-files.md)
