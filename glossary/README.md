@@ -15,3 +15,4 @@ A short reference of PowerShell terms.
 - [Splatting](./splatting.md)
 - [Here-string](./here-string.md)
 - [Runspace](./runspace.md)
+- [CmdletBinding](./cmdletbinding.md)
