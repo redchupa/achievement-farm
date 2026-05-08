@@ -17,3 +17,4 @@ A short reference of PowerShell terms.
 - [Runspace](./runspace.md)
 - [CmdletBinding](./cmdletbinding.md)
 - [PSCustomObject](./pscustomobject.md)
+- [Where-Object](./where-object.md)
