@@ -18,3 +18,4 @@ A short reference of PowerShell terms.
 - [CmdletBinding](./cmdletbinding.md)
 - [PSCustomObject](./pscustomobject.md)
 - [Where-Object](./where-object.md)
+- [ForEach-Object](./foreach-object.md)
