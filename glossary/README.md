@@ -12,3 +12,4 @@ A short reference of PowerShell terms.
 - [Provider](./provider.md)
 - [PSDrive](./psdrive.md)
 - [Hashtable](./hashtable.md)
+- [Splatting](./splatting.md)
