@@ -4,3 +4,4 @@ A short reference of PowerShell terms.
 
 ## Index
 
+- [Cmdlet](./cmdlet.md)
