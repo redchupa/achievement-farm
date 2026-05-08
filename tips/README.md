@@ -16,3 +16,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Flush the DNS resolver cache](./dns-flush.md)
 - [List saved Wi-Fi profiles](./wifi-profiles.md)
 - [Show the top 5 CPU-using processes](./top-cpu.md)
+- [Show free space per drive](./disk-free.md)
