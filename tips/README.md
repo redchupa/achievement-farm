@@ -9,3 +9,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Append a directory to the user PATH](./env-path-edit.md)
 - [Hash every file in a folder](./hash-folder.md)
 - [Pipe command output to the clipboard](./clipboard-pipe.md)
+- [Watch a file for changes](./watch-file.md)
