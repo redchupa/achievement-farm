@@ -18,3 +18,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Show the top 5 CPU-using processes](./top-cpu.md)
 - [Show free space per drive](./disk-free.md)
 - [List running services](./services-running.md)
+- [Download a file with progress](./download-file.md)
