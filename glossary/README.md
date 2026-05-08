@@ -16,3 +16,4 @@ A short reference of PowerShell terms.
 - [Here-string](./here-string.md)
 - [Runspace](./runspace.md)
 - [CmdletBinding](./cmdletbinding.md)
+- [PSCustomObject](./pscustomobject.md)
