@@ -9,3 +9,4 @@ A short reference of PowerShell terms.
 - [Pipeline](./pipeline.md)
 - [Profile](./profile.md)
 - [Module](./module.md)
+- [Provider](./provider.md)
