@@ -15,3 +15,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Find text across files recursively](./find-text-in-files.md)
 - [Flush the DNS resolver cache](./dns-flush.md)
 - [List saved Wi-Fi profiles](./wifi-profiles.md)
+- [Show the top 5 CPU-using processes](./top-cpu.md)
