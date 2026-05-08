@@ -10,3 +10,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Hash every file in a folder](./hash-folder.md)
 - [Pipe command output to the clipboard](./clipboard-pipe.md)
 - [Watch a file for changes](./watch-file.md)
+- [Zip a folder without 7-Zip](./zip-folder.md)
