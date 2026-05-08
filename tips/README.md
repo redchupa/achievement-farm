@@ -19,3 +19,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [Show free space per drive](./disk-free.md)
 - [List running services](./services-running.md)
 - [Download a file with progress](./download-file.md)
+- [Embed git branch in the prompt](./posh-prompt.md)
