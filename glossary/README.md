@@ -13,3 +13,4 @@ A short reference of PowerShell terms.
 - [PSDrive](./psdrive.md)
 - [Hashtable](./hashtable.md)
 - [Splatting](./splatting.md)
+- [Here-string](./here-string.md)
