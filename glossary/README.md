@@ -11,3 +11,4 @@ A short reference of PowerShell terms.
 - [Module](./module.md)
 - [Provider](./provider.md)
 - [PSDrive](./psdrive.md)
+- [Hashtable](./hashtable.md)
