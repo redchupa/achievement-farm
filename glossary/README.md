@@ -10,3 +10,4 @@ A short reference of PowerShell terms.
 - [Profile](./profile.md)
 - [Module](./module.md)
 - [Provider](./provider.md)
+- [PSDrive](./psdrive.md)
