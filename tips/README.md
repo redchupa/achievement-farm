@@ -17,3 +17,4 @@ A growing collection of one-liners that solve common Windows admin tasks.
 - [List saved Wi-Fi profiles](./wifi-profiles.md)
 - [Show the top 5 CPU-using processes](./top-cpu.md)
 - [Show free space per drive](./disk-free.md)
+- [List running services](./services-running.md)
